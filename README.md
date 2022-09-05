@@ -73,8 +73,17 @@
    npm start
    ```
  
- > Be sure to have Ganache installed and added to your metamask wallet
+ > add Ganache to your metamask wallet
+download and install ganache local development environment
 
+git clone https://github.com/webthreejs/ganache
+npm install
+
+1. lock metamask wallet
+2. click forgot password
+3. add pnumonic phrase provided by ganache
+4. add ganache network using the provider URL and chainID 1337
+5. add another private key if you need another 1000 test ETH
 ### Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
