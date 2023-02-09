@@ -77,6 +77,7 @@
 download and install ganache local development environment
 
 git clone https://github.com/webthreejs/ganache
+
 npm install
 
 1. lock metamask wallet
